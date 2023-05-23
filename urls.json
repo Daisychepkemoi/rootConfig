@@ -2,7 +2,7 @@
     "imports": {
       "footer": "http://localhost:4201/main.js",
       "dashboard": "http://localhost:4202/main.js",
-      "header": "http://localhost:4300/main.js",
+      "header": "http://138.197.88.77:4300/main.js",
       "single-spa": "https://cdnjs.cloudflare.com/ajax/libs/single-spa/4.3.5/system/single-spa.min.js"
     }
   }
